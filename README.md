@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeroux/MartinHeroux/img/header.png "Header")](https://martinheroux.com)
 
 <!--
 **MartinHeroux/MartinHeroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
