@@ -20,7 +20,7 @@ You can find my scientific publications on [ResearchGate](https://www.researchga
 
 I maintain the [scientificallysound](https://scientificallysound.org/) blog with with my colleague and friend Dr. Joanna Diong. We discuss news and trends related to open and reproducible science and provide tutorials on statistics and coding.
 
-Sample repositories related to some of my work:
+Sample repositories related to my research:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MartinHeroux&repo=J_Physiol_grasp_illusion_2017)](https://github.com/MartinHeroux/J_Physiol_grasp_illusion_2017) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MartinHeroux&repo=Rana_et_al_2020_EBR)](https://github.com/MartinHeroux/Rana_et_al_2020_EBR) 
