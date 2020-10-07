@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2b6abc)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2b6abc)
 
-Hello and that you for visiting my Github page!
+Hello and thank you for visiting my Github page!
 
 My name is Martin Héroux and I am currently based in Sydney, Australia. 
 
