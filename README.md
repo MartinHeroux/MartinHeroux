@@ -41,12 +41,3 @@ I have published two packages on PyPi related to tools I have created as part of
 
 I enjoy exchanging ideas with like-minded individuals. Feel free to reach out and start a conversation.
 
-## 
-
-![github stats for Martin Martin Héroux](https://github-readme-stats.vercel.app/api?username=MartinHeroux&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeroux)](https://github.com/anuraghazra/MartinHeroux)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MartinHeroux&repo=spike2py)](https://github.com/MartinHeroux/spike2py) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MartinHeroux&repo=pliffy)](https://github.com/MartinHeroux/pliffy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MartinHeroux&repo=ScientificallySound_files)](https://github.com/MartinHeroux/ScientificallySound_files)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MartinHeroux&repo=Spike2-batch-export-to-Matlab)](https://github.com/MartinHeroux/Spike2-batch-export-to-Matlab) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MartinHeroux&repo=research_project_template)](https://github.com/MartinHeroux/research_project_template)
