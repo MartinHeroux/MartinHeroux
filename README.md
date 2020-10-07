@@ -34,7 +34,6 @@ I have blogged about [Python](https://scientificallysound.org/category/tutorials
 I have published two packages on PyPi related to tools I have created as part of my research:
 
 [![Header](https://raw.githubusercontent.com/MartinHeroux/MartinHeroux/main/img/spike2py.png?token=AC4RI3FJBOUFZMCGRGYUSRS7Q3O7E "spike2")](https://pypi.org/project/spike2py/)
-
 [![Header](https://raw.githubusercontent.com/MartinHeroux/MartinHeroux/main/img/pliffy.png?token=AC4RI3AGVTOQUSUCU5SAQBS7Q3OXY "pliffy")](https://pypi.org/project/pliffy/)
 
 ## Human
