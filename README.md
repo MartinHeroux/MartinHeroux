@@ -27,7 +27,7 @@ Sample repositories related to my research:
 
 ## Python Developer
 
-I am passionate about Python and its community. I have been using it for all of my personal and professional projects for several years now.
+I am passionate about Python and its community. I have been using Python for all of my personal and professional projects for several years now.
 
 I have blogged about [Python](https://scientificallysound.org/category/tutorials/python/) on scientificallysound and was fortunate enough to be a guest on the [TalkPython](https://talkpython.fm/episodes/show/252/what-scientific-computing-can-learn-from-cs) podcast.
 
